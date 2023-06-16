@@ -1,7 +1,7 @@
 # Gesture Recognition 
 > Build a CRNN model to recognize the human gesture.
 
-
+![pexels-rocketmann-team-9486675](https://github.com/impc043/gesture_recognition_deep_learning/assets/103483875/1959feca-c578-4f6c-bafc-bfabd03cfaa6)
 
 ## Table of Contents
 * [General Info](#general-information)
