@@ -20,7 +20,7 @@
   -	Left Swipe: Jump backward 10 Sec. 
   -	Right Swipe: Jump forward 10 Sec. 
   -	Stop: Pause the movie. 
-- dataset being used: we've used open source data set that are available in kaggle (Human Gesture Recognition)
+- dataset being used in this project: we've used open source data set that are available in kaggle (Human Gesture Recognition)
 
 
 
